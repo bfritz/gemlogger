@@ -1,4 +1,4 @@
-Quick hack to pipe energy readings from [GreenEye energy monitor](http://www.brultech.com/home/store/category.php?id_category=34) (GEM) to [Riemann](http://riemann.io/) for further processing.
+Quick hack to pipe energy readings from [GreenEye Monitor](https://www.brultech.com/greeneye/) (GEM) to [Riemann](http://riemann.io/) for further processing.
 
 GEM is configured to send readings every 10 seconds encoded as GET requests, e.g.:
 
